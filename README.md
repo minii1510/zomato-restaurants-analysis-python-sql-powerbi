@@ -51,7 +51,7 @@ The analysis is presented using an interactive Power BI dashboard with filters a
 - powerbi/zomato_dashboard.pbix → Power BI dashboard file  
 - sql/zomato_queries.sql → SQL analysis queries  
 - images/dashboard.png → Dashboard screenshot  
-- data/zomato_cleaned.csv → Dataset used (optional)
+- zomato_cleaned.csv → Dataset used (optional)
 
 ---
 
